@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+}
+h1{
+    color:greenyellow;
+    font-family: "Press Start 2P";
+    border-top-style: dashed;
+    border-top-color: greenyellow;
+    height: 100;
+    
+}
+p{
+    color:greenyellow;
+    font-family: "consolas";
+    font-weight: bold;
+    font-size: 18px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: greenyellow;
+    border-radius: 10px;
+    width: fit-content;
+}
+#p1{
+    color: #00FF73;
+}
+.second{
+    color: red;
+}
