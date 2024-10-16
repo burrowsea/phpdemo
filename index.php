@@ -108,5 +108,6 @@ function calculateGrade() {
             
         }
     </script>
+    <a href="nextPage.php" body = "_blank">Next</a>
 </body>
 </html>
