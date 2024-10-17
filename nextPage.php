@@ -36,9 +36,7 @@
         });
     </script>
 
-<?php
 
-?>
 
 <br><br><Br><br>
 
